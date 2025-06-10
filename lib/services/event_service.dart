@@ -6,7 +6,7 @@ import '../models/event.dart';
 
 class EventService {
   final String apiUrl =
-      'https://6847d529ec44b9f3493e5f06.mockapi.io/api/v1/events';
+      'https://run.mocky.io/v3/3c46da4a-c0e3-4ab4-8135-b176b2d4c835';
 
   Future<List<Event>> fetchEvents() async {
     try {

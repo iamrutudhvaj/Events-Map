@@ -14,13 +14,10 @@ A Flutter application that displays events on an interactive map. This app allow
 ## Tech Stack
 
 - **Flutter SDK**: ^3.7.2
-- **State Management**: Provider
-- **Maps**: Google Maps Flutter
-- **Networking**: HTTP package for API calls
-- **Animations**: Flutter Animate
-- **UI Components**: Material Design, Shimmer effects
-- **Date Formatting**: Intl package
-- **Network Connectivity**: Connectivity Plus
+- **Maps**: Google Maps Flutter (^2.12.2)
+- **Networking**: HTTP package (^1.4.0) for API calls
+- **Date Formatting**: Intl package (^0.20.2)
+- **UI Components**: Material Design with Cupertino Icons (^1.0.8)
 
 ## Project Structure
 
